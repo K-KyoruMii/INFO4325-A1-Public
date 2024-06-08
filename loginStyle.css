@@ -1,0 +1,19 @@
+body{
+    padding:100px;
+}
+
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    background-color: white;
+}
+
+.form-group{
+    margin-bottom:30px;
+}
+
+body { 
+    background-image: url(bg1.png);
+
+}
