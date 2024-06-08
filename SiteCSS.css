@@ -11,7 +11,7 @@ body {
   background-size: auto;
   color: #2f3c7e;
   font-family: Orbitron;
-  font-weight: 400;
+  font-weight: bold;
 }
 
 #container {
@@ -121,7 +121,7 @@ main {
   background-color: #e0ffff;
   border: 0.5px solid #ffffff;
   min-height: 580px;
-  font-weight: 400;
+  font-weight: bold;
 }
 
 desc {
