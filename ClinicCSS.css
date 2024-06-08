@@ -7,8 +7,8 @@
 body {
   background-color: #8a2be2;
   background-image: url(bg2.png), url(bg1.png);
-  background-repeat: no-repeat, repeat;
-  background-size: 100% auto, auto;
+  background-repeat: repeat-y, repeat;
+  background-size: contain, auto;
   color: #2f3c7e;
   font-family: Orbitron;
   font-weight: 400;
